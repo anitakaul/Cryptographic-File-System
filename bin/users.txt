@@ -1,0 +1,2 @@
+user1,$2a$10$T/ki6T9/A..X4Icjt7DFuuOcwxiNsgjrfkekch3mTnIGEjxQpvwmq,group1,$2a$10$T/ki6T9/A..X4Icjt7DFuu
+root,root,null,null

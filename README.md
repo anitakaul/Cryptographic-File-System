@@ -1,2 +1,2 @@
-# Cryptographic-File-System
-This is a file uploading system that communicates over several servers while utilizing modern cryptographic practices.
+Please see the [Phase 4 description](desc/phase_4.pdf) for details.
+
